@@ -1,0 +1,11 @@
+Boundary Level Testing:
+
+1. Name : 65535 single-byte characters
+2. Roll No. : min 0 - 2147483647 max
+3. Department : 65535 single-byte characters
+4. Blood Group : max - 3 char min -2 char
+5. Unit/Amt of Blood : 32,767 max
+6.Date of Donation:current data
+7. PhoneNo.:10 digits
+8 E-mail ID : 65535 single-byte characters
+   
