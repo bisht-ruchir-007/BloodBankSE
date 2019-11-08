@@ -11,8 +11,8 @@ run main.exe file
     scale = 3.
     F = 14 * 3 = 42 
     
-2.  User Input = 7
-    User Output = 7
+2.  User Input = 8
+    User Output = 8
     User Inquiries = 3
     User Files = 1
     External Interface = 0 
@@ -21,8 +21,8 @@ run main.exe file
     CAF = 0.65 + ( 0.01 * 42 ) = 1.07 
     
 4.  Unadjusted Function Point (UFP)    
-    UFP = (7*3) + (7*4) + (3*3) + (1*7) + (0*5) = 65
+    UFP = (8*3) + (8*4) + (3*3) + (1*7) + (0*5) = 72
     
 5.  Function Point
     FP = UFP * CAF 
-    FP = 65 * 1.07 = 69.55 = 70(approx).
+    FP = 72 * 1.07 = 77.
